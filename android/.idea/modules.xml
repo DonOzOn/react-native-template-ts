@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DonOzOn.iml" filepath="$PROJECT_DIR$/.idea/modules/DonOzOn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DonOzOn.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DonOzOn.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DonOzOn.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DonOzOn.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DonOzOn.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DonOzOn.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DonOzOn.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DonOzOn.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-743934085/DonOzOn.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-743934085/DonOzOn.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-743934085/DonOzOn.react-native-async-storage_async-storage.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-743934085/DonOzOn.react-native-async-storage_async-storage.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-743934085/DonOzOn.react-native-async-storage_async-storage.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-743934085/DonOzOn.react-native-async-storage_async-storage.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-743934085/DonOzOn.react-native-async-storage_async-storage.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-743934085/DonOzOn.react-native-async-storage_async-storage.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2106466426/DonOzOn.react-native-code-push.iml" filepath="$PROJECT_DIR$/.idea/modules/-2106466426/DonOzOn.react-native-code-push.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2106466426/DonOzOn.react-native-code-push.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-2106466426/DonOzOn.react-native-code-push.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2106466426/DonOzOn.react-native-code-push.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-2106466426/DonOzOn.react-native-code-push.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2106466426/DonOzOn.react-native-code-push.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-2106466426/DonOzOn.react-native-code-push.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1271160201/DonOzOn.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1271160201/DonOzOn.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1271160201/DonOzOn.react-native-community_masked-view.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1271160201/DonOzOn.react-native-community_masked-view.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1271160201/DonOzOn.react-native-community_masked-view.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1271160201/DonOzOn.react-native-community_masked-view.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1271160201/DonOzOn.react-native-community_masked-view.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1271160201/DonOzOn.react-native-community_masked-view.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2054781851/DonOzOn.react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/2054781851/DonOzOn.react-native-community_netinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2054781851/DonOzOn.react-native-community_netinfo.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/2054781851/DonOzOn.react-native-community_netinfo.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2054781851/DonOzOn.react-native-community_netinfo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/2054781851/DonOzOn.react-native-community_netinfo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2054781851/DonOzOn.react-native-community_netinfo.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/2054781851/DonOzOn.react-native-community_netinfo.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/794982049/DonOzOn.react-native-crisp-chat-sdk.iml" filepath="$PROJECT_DIR$/.idea/modules/794982049/DonOzOn.react-native-crisp-chat-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/794982049/DonOzOn.react-native-crisp-chat-sdk.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/794982049/DonOzOn.react-native-crisp-chat-sdk.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/794982049/DonOzOn.react-native-crisp-chat-sdk.main.iml" filepath="$PROJECT_DIR$/.idea/modules/794982049/DonOzOn.react-native-crisp-chat-sdk.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/794982049/DonOzOn.react-native-crisp-chat-sdk.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/794982049/DonOzOn.react-native-crisp-chat-sdk.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-73284688/DonOzOn.react-native-fast-image.iml" filepath="$PROJECT_DIR$/.idea/modules/-73284688/DonOzOn.react-native-fast-image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-73284688/DonOzOn.react-native-fast-image.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-73284688/DonOzOn.react-native-fast-image.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-73284688/DonOzOn.react-native-fast-image.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-73284688/DonOzOn.react-native-fast-image.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-73284688/DonOzOn.react-native-fast-image.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-73284688/DonOzOn.react-native-fast-image.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-968366981/DonOzOn.react-native-file-logger.iml" filepath="$PROJECT_DIR$/.idea/modules/-968366981/DonOzOn.react-native-file-logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-968366981/DonOzOn.react-native-file-logger.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-968366981/DonOzOn.react-native-file-logger.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-968366981/DonOzOn.react-native-file-logger.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-968366981/DonOzOn.react-native-file-logger.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-968366981/DonOzOn.react-native-file-logger.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-968366981/DonOzOn.react-native-file-logger.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1170478528/DonOzOn.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1170478528/DonOzOn.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1170478528/DonOzOn.react-native-gesture-handler.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1170478528/DonOzOn.react-native-gesture-handler.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1170478528/DonOzOn.react-native-gesture-handler.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1170478528/DonOzOn.react-native-gesture-handler.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1170478528/DonOzOn.react-native-gesture-handler.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1170478528/DonOzOn.react-native-gesture-handler.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1475291064/DonOzOn.react-native-keychain.iml" filepath="$PROJECT_DIR$/.idea/modules/-1475291064/DonOzOn.react-native-keychain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1475291064/DonOzOn.react-native-keychain.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1475291064/DonOzOn.react-native-keychain.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1475291064/DonOzOn.react-native-keychain.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1475291064/DonOzOn.react-native-keychain.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1475291064/DonOzOn.react-native-keychain.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1475291064/DonOzOn.react-native-keychain.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/555286890/DonOzOn.react-native-notifications.iml" filepath="$PROJECT_DIR$/.idea/modules/555286890/DonOzOn.react-native-notifications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/555286890/DonOzOn.react-native-notifications.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/555286890/DonOzOn.react-native-notifications.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/555286890/DonOzOn.react-native-notifications.main.iml" filepath="$PROJECT_DIR$/.idea/modules/555286890/DonOzOn.react-native-notifications.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/555286890/DonOzOn.react-native-notifications.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/555286890/DonOzOn.react-native-notifications.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2061623554/DonOzOn.react-native-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/-2061623554/DonOzOn.react-native-permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2061623554/DonOzOn.react-native-permissions.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-2061623554/DonOzOn.react-native-permissions.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2061623554/DonOzOn.react-native-permissions.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-2061623554/DonOzOn.react-native-permissions.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2061623554/DonOzOn.react-native-permissions.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-2061623554/DonOzOn.react-native-permissions.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1536117724/DonOzOn.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1536117724/DonOzOn.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1102934697/DonOzOn.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1102934697/DonOzOn.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1102934697/DonOzOn.react-native-safe-area-context.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1102934697/DonOzOn.react-native-safe-area-context.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1102934697/DonOzOn.react-native-safe-area-context.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1102934697/DonOzOn.react-native-safe-area-context.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1102934697/DonOzOn.react-native-safe-area-context.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1102934697/DonOzOn.react-native-safe-area-context.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1126130177/DonOzOn.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1126130177/DonOzOn.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1126130177/DonOzOn.react-native-screens.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1126130177/DonOzOn.react-native-screens.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1126130177/DonOzOn.react-native-screens.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1126130177/DonOzOn.react-native-screens.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1126130177/DonOzOn.react-native-screens.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1126130177/DonOzOn.react-native-screens.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/950452958/DonOzOn.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/950452958/DonOzOn.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/950452958/DonOzOn.react-native-svg.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/950452958/DonOzOn.react-native-svg.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/950452958/DonOzOn.react-native-svg.main.iml" filepath="$PROJECT_DIR$/.idea/modules/950452958/DonOzOn.react-native-svg.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/950452958/DonOzOn.react-native-svg.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/950452958/DonOzOn.react-native-svg.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1432638870/DonOzOn.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1432638870/DonOzOn.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1432638870/DonOzOn.react-native-vector-icons.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1432638870/DonOzOn.react-native-vector-icons.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1432638870/DonOzOn.react-native-vector-icons.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1432638870/DonOzOn.react-native-vector-icons.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1432638870/DonOzOn.react-native-vector-icons.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1432638870/DonOzOn.react-native-vector-icons.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/385072755/DonOzOn.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/385072755/DonOzOn.react-native-webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/385072755/DonOzOn.react-native-webview.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/385072755/DonOzOn.react-native-webview.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/385072755/DonOzOn.react-native-webview.main.iml" filepath="$PROJECT_DIR$/.idea/modules/385072755/DonOzOn.react-native-webview.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/385072755/DonOzOn.react-native-webview.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/385072755/DonOzOn.react-native-webview.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-989133769/DonOzOn.sentry_react-native.iml" filepath="$PROJECT_DIR$/.idea/modules/-989133769/DonOzOn.sentry_react-native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-989133769/DonOzOn.sentry_react-native.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-989133769/DonOzOn.sentry_react-native.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-989133769/DonOzOn.sentry_react-native.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-989133769/DonOzOn.sentry_react-native.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-989133769/DonOzOn.sentry_react-native.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-989133769/DonOzOn.sentry_react-native.unitTest.iml" />
+    </modules>
+  </component>
+</project>

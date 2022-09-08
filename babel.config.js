@@ -1,0 +1,43 @@
+module.exports = {
+  presets: ['module:metro-react-native-babel-preset'],
+  plugins: [
+    'babel-plugin-styled-components',
+    [
+      'module:react-native-dotenv',
+      {
+        moduleName: '@env',
+        path: '.env',
+        blacklist: null,
+        whitelist: null,
+        safe: true,
+        allowUndefined: true,
+      },
+    ],
+    [
+      require.resolve('babel-plugin-module-resolver'),
+      {
+        root: ['.'],
+        alias: {
+          'assets': './assets',
+          'components': './src/components',
+          'hooks': './src/hooks',
+          'localization': './src/localization',
+          'navigation': './src/navigation',
+          'screens': './src/screens',
+          'utils': './src/utils',
+          'store': './src/store',
+          'dto': './src/dto',
+          'services': './src/services',
+          'models': './src/models',
+          '@auth': './src/modules/auth',
+        },
+      },
+    ],
+    'react-native-reanimated/plugin',
+  ],
+  env: {
+    production: {
+      plugins: ['react-native-paper/babel'],
+    },
+  },
+};
