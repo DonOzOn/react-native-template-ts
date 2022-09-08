@@ -1,12 +1,4 @@
-# :space_invader: React Native Template TypeScript with Goodies ![npm](https://img.shields.io/npm/dw/@gabimoncha/react-native-template)
-
-An opinionated template to bootstrap your next React Native app with all the time-wasting packages you need to have.
-
-## :computer: Contributions are very welcome 🤝
-
-### Let's build the best React Native template together 🚀
-
-Please check out the [contributing document](CONTRIBUTING.md).
+# React Native Template TypeScript
 
 Preconfigured with
 
@@ -22,7 +14,6 @@ Preconfigured with
 - [react-native-permissions](https://github.com/zoontek/react-native-permissions) unified permissions api for iOS and Android.
 - [react-i18next](https://github.com/i18next/react-i18next) internationalization.
 - [Code Push](https://github.com/microsoft/react-native-code-push) syncronize JavaScript and Images with over-the-air updates.
-- [Crisp chat](https://github.com/walterholohan/react-native-crisp-chat-sdk) free live customer support.
 - [Sentry](https://github.com/getsentry/sentry-react-native) for debugging in production.
 - [react-native-appstate-hook](https://github.com/amrlabib/react-native-appstate-hook) handle app state in your app.
 - [react-native-file-logger](https://github.com/BeTomorrow/react-native-file-logger) to log important stuff.
@@ -35,24 +26,7 @@ Preconfigured with
 - [Detox](https://github.com/wix/Detox) for e2e.
 - [why-did-you-render](https://github.com/welldone-software/why-did-you-render) to avoid re-renders.
 
-## Contents
 
-- [Documentation](#documentation)
-- [Getting Started](#getting-started)
-- [Road Map](#road-map)
-- [Optional Steps](#optional-steps)
-- [Credits](#credits)
-
-## Documentation
-
-- [Libraries](#libraries)
-- [Directory Structure](#directory-structure)
-
-## Getting Started
-
-Create a new project using the template.
-
-- **Note:** the command will fail if you have the global legacy react-native-cli installed. Make sure you uninstall it first. More info at [react-native-community/cli](https://github.com/react-native-community/cli#about).
 
 ### RN 0.64.0
 
@@ -114,10 +88,6 @@ Starting Android 10 (API 29), notification icons should be glyphs. You need to f
 1. Copy and Replace the CodePushDeploymentKey in android/app/build.gradle and XCode -> YourProject -> Build Settings -> `CODE_PUSH_KEY`
 
 You can retrieve this values by running `appcenter codepush deployment list -a <ownerName>/<appName> -k`
-
-#### Connect To Crisp chat
-
-Register an account and website on [the platform](https://crisp.chat). Go to Settings > Website settings > Select website > Set up Instructions > Copy Website ID and replace it in `AppDelegate.m` and `MainApplication.java`
 
 #### Connect To Sentry
 
@@ -197,11 +167,6 @@ A React Native app is composed of JavaScript files and any accompanying images, 
 
 The CodePush plugin helps get product improvements in front of your end users instantly, by keeping your JavaScript and images synchronized with updates you release to the CodePush server. This way, your app gets the benefits of an offline mobile experience, as well as the "web-like" agility of side-loading updates as soon as they are available. It's a win-win!
 
-### Crisp chat
-
-A free alternative to Intercom or Zendesk, for startups and SMBs.
-[Crisp chat](https://crisp.chat)
-
 ### Sentry
 
 Benefitial in debugging issues that occur only in release builds. You can view error stack traces for unhandled exceptions. You can also choose to log specific errors in some catch blocks to study how often they occur in production.
@@ -249,65 +214,6 @@ For end-to-end testing.
 
 Fix avoidable re-renders
 
-## Directory Structure
-
-```
-root
-├── __tests__
-├── android
-├── ios
-├── storybook
-|   └── addons.js
-|   └── index.js
-|   └── rn_addons.js
-└── src
-    └── components
-    |   └── LanguageButton
-    |   |   └── index.tsx
-    |   |   └── LanguageButton.tsx
-    |   |   └── stories.tsx
-    |   └── Counter.tsx
-    |   └── CustomScreen.tsx
-    |   └── CustomText.tsx
-    |   └── StatusBar.tsx
-    |   └── stories.ts
-    └── hooks
-    |   └── useCustomBackBehaviour.tsx
-    |   └── useMockApi.tsx
-    |   └── useNotification.tsx
-    |   └── usePrevious.tsx
-    └── localization
-    |   └── resources
-    |   |   └── en.json
-    |   |   └── index.ts
-    |   |   └── ro.json
-    |   └── index.tsx
-    └── modules
-    |   └── auth
-    |   |   └── hooks
-    |   |   |   └── useKeychainBiometrics.tsx
-    |   |   |   └── useKeychainCredentials.tsx
-    |   |   |   └── useSupportedBiometry.tsx
-    |   |   └── screens
-    |   |   |   └── index.tsx
-    |   |   |   └── Onboarding.tsx
-    |   |   |   └── ResetPassword.tsx
-    |   |   └── store
-    |   |   |   └── index.ts
-    |   └── <your_app_modules>
-    └── navigation
-    |   ├── navigatorMethods.tsx
-    |   └── Router.tsx
-    └── screens
-    |   ├── CustomWebView.tsx
-    |   ├── Home.tsx
-    |   ├── index.ts
-    |   └── NetworkError.tsx
-    └── utils
-        ├── colors.ts
-        └── console.ts
-
-```
 
 ## Credits
 
