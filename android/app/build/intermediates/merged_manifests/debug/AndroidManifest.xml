@@ -106,18 +106,7 @@
                 <!-- Accepts URIs that begin with "helloworld://” -->
                 <data android:scheme="helloworld" />
             </intent-filter>
-        </activity> <!-- A proxy-service that gives the library an opportunity to do some work before launching/resuming the actual application task. -->
-        <service android:name="com.wix.reactnativenotifications.core.ProxyService" />
-        <service android:name="com.wix.reactnativenotifications.fcm.FcmInstanceIdListenerService" >
-            <intent-filter>
-                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
-            </intent-filter>
-        </service>
-        <service
-            android:name="com.wix.reactnativenotifications.fcm.FcmInstanceIdRefreshHandlerService"
-            android:exported="false"
-            android:permission="android.permission.BIND_JOB_SERVICE" />
+        </activity>
 
         <meta-data
             android:name="io.sentry.auto-init"

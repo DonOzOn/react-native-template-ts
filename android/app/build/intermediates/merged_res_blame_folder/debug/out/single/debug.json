@@ -1,66 +1,66 @@
 [
     {
-        "merged": "/Users/apple/Documents/Personal/react-native-template-typescript/template/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/Users/apple/Documents/Personal/react-native-template-typescript/template/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "/Users/apple/Documents/Personal/react-native-template-ts/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/apple/Documents/Personal/react-native-template-ts/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/apple/Documents/Personal/react-native-template-typescript/template/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_notification_icon.png.flat",
-        "source": "/Users/apple/Documents/Personal/react-native-template-typescript/template/android/app/src/main/res/drawable-xxhdpi/notification_icon.png"
+        "merged": "/Users/apple/Documents/Personal/react-native-template-ts/android/app/build/intermediates/res/merged/debug/xml_network_security_config.xml.flat",
+        "source": "/Users/apple/Documents/Personal/react-native-template-ts/android/app/src/main/res/xml/network_security_config.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Personal/react-native-template-typescript/template/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/apple/Documents/Personal/react-native-template-typescript/template/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "/Users/apple/Documents/Personal/react-native-template-ts/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_notification_icon.png.flat",
+        "source": "/Users/apple/Documents/Personal/react-native-template-ts/android/app/src/main/res/drawable-xxhdpi/notification_icon.png"
     },
     {
-        "merged": "/Users/apple/Documents/Personal/react-native-template-typescript/template/android/app/build/intermediates/res/merged/debug/drawable-mdpi_notification_icon.png.flat",
-        "source": "/Users/apple/Documents/Personal/react-native-template-typescript/template/android/app/src/main/res/drawable-mdpi/notification_icon.png"
+        "merged": "/Users/apple/Documents/Personal/react-native-template-ts/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/apple/Documents/Personal/react-native-template-ts/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/apple/Documents/Personal/react-native-template-typescript/template/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/Users/apple/Documents/Personal/react-native-template-typescript/template/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "/Users/apple/Documents/Personal/react-native-template-ts/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/apple/Documents/Personal/react-native-template-ts/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/apple/Documents/Personal/react-native-template-typescript/template/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/Users/apple/Documents/Personal/react-native-template-typescript/template/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/Users/apple/Documents/Personal/react-native-template-ts/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/Documents/Personal/react-native-template-ts/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/apple/Documents/Personal/react-native-template-typescript/template/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/Users/apple/Documents/Personal/react-native-template-typescript/template/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "/Users/apple/Documents/Personal/react-native-template-ts/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_notification_icon.png.flat",
+        "source": "/Users/apple/Documents/Personal/react-native-template-ts/android/app/src/main/res/drawable-xhdpi/notification_icon.png"
     },
     {
-        "merged": "/Users/apple/Documents/Personal/react-native-template-typescript/template/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/apple/Documents/Personal/react-native-template-typescript/template/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/Users/apple/Documents/Personal/react-native-template-ts/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/Documents/Personal/react-native-template-ts/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/apple/Documents/Personal/react-native-template-typescript/template/android/app/build/intermediates/res/merged/debug/drawable-hdpi_notification_icon.png.flat",
-        "source": "/Users/apple/Documents/Personal/react-native-template-typescript/template/android/app/src/main/res/drawable-hdpi/notification_icon.png"
+        "merged": "/Users/apple/Documents/Personal/react-native-template-ts/android/app/build/intermediates/res/merged/debug/drawable-hdpi_notification_icon.png.flat",
+        "source": "/Users/apple/Documents/Personal/react-native-template-ts/android/app/src/main/res/drawable-hdpi/notification_icon.png"
     },
     {
-        "merged": "/Users/apple/Documents/Personal/react-native-template-typescript/template/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/apple/Documents/Personal/react-native-template-typescript/template/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "/Users/apple/Documents/Personal/react-native-template-ts/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/Documents/Personal/react-native-template-ts/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/apple/Documents/Personal/react-native-template-typescript/template/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/Users/apple/Documents/Personal/react-native-template-typescript/template/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/Users/apple/Documents/Personal/react-native-template-ts/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/apple/Documents/Personal/react-native-template-ts/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/apple/Documents/Personal/react-native-template-typescript/template/android/app/build/intermediates/res/merged/debug/xml_network_security_config.xml.flat",
-        "source": "/Users/apple/Documents/Personal/react-native-template-typescript/template/android/app/src/main/res/xml/network_security_config.xml"
+        "merged": "/Users/apple/Documents/Personal/react-native-template-ts/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/Documents/Personal/react-native-template-ts/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/apple/Documents/Personal/react-native-template-typescript/template/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "/Users/apple/Documents/Personal/react-native-template-typescript/template/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "/Users/apple/Documents/Personal/react-native-template-ts/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/Documents/Personal/react-native-template-ts/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/apple/Documents/Personal/react-native-template-typescript/template/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_notification_icon.png.flat",
-        "source": "/Users/apple/Documents/Personal/react-native-template-typescript/template/android/app/src/main/res/drawable-xhdpi/notification_icon.png"
+        "merged": "/Users/apple/Documents/Personal/react-native-template-ts/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_notification_icon.png.flat",
+        "source": "/Users/apple/Documents/Personal/react-native-template-ts/android/app/src/main/res/drawable-xxxhdpi/notification_icon.png"
     },
     {
-        "merged": "/Users/apple/Documents/Personal/react-native-template-typescript/template/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_notification_icon.png.flat",
-        "source": "/Users/apple/Documents/Personal/react-native-template-typescript/template/android/app/src/main/res/drawable-xxxhdpi/notification_icon.png"
+        "merged": "/Users/apple/Documents/Personal/react-native-template-ts/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/apple/Documents/Personal/react-native-template-ts/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/apple/Documents/Personal/react-native-template-typescript/template/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/apple/Documents/Personal/react-native-template-typescript/template/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "/Users/apple/Documents/Personal/react-native-template-ts/android/app/build/intermediates/res/merged/debug/drawable-mdpi_notification_icon.png.flat",
+        "source": "/Users/apple/Documents/Personal/react-native-template-ts/android/app/src/main/res/drawable-mdpi/notification_icon.png"
     }
 ]

@@ -13,7 +13,6 @@ import com.swmansion.reanimated.ReanimatedJSIModulePackage;
 import java.lang.reflect.InvocationTargetException;
 import java.util.List;
 import com.microsoft.codepush.react.CodePush;
-import com.wix.reactnativenotifications.RNNotificationsPackage;
 
 import im.crisp.client.Crisp;
 import androidx.multidex.MultiDexApplication;

@@ -29,7 +29,7 @@
     <content url="file://$MODULE_DIR$/../../../../node_modules/react-native-file-logger/android/build/generated/source/buildConfig/androidTest/debug" />
     <content url="file://$MODULE_DIR$/../../../../node_modules/react-native-file-logger/android/src/androidTest" />
     <content url="file://$MODULE_DIR$/../../../../node_modules/react-native-file-logger/android/src/androidTestDebug" />
-    <orderEntry type="jdk" jdkName="Android API 29 Platform" jdkType="Android SDK" />
+    <orderEntry type="jdk" jdkName="Android API 31 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="DonOzOn.react-native-file-logger.main" scope="TEST" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.infer.annotation:infer-annotation:0.11.2" level="project" />
@@ -46,7 +46,7 @@
     <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.okhttp3:okhttp:3.12.12" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.okio:okio:1.17.5" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.fbjni:fbjni-java-only:0.0.3" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.slf4j:slf4j-api:1.7.25" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.slf4j:slf4j-api:1.7.33" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.react:react-native:0.64.2@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.appcompat:appcompat:1.0.2@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.fragment:fragment:1.0.0@aar" level="project" />

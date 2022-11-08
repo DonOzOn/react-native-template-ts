@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: io.sentry:sentry-android:5.1.0-beta.2@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f6f75657b5d1f714bb6b94249793d07d/jetified-sentry-android-5.1.0-beta.2/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f6f75657b5d1f714bb6b94249793d07d/jetified-sentry-android-5.1.0-beta.2/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f6f75657b5d1f714bb6b94249793d07d/jetified-sentry-android-5.1.0-beta.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/880d72f14bf8a1eb28407d5a2ca193d0/transformed/jetified-sentry-android-5.1.0-beta.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/880d72f14bf8a1eb28407d5a2ca193d0/transformed/jetified-sentry-android-5.1.0-beta.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/880d72f14bf8a1eb28407d5a2ca193d0/transformed/jetified-sentry-android-5.1.0-beta.2/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.sentry/sentry-android/5.1.0-beta.2/8851fdf84dd9fa49541603113433c4df00cc8867/sentry-android-5.1.0-beta.2-javadoc.jar!/" />

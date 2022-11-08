@@ -31,8 +31,6 @@ import com.betomorrow.rnfilelogger.FileLoggerPackage;
 import com.swmansion.gesturehandler.react.RNGestureHandlerPackage;
 // react-native-keychain
 import com.oblador.keychain.KeychainPackage;
-// react-native-notifications
-import com.wix.reactnativenotifications.RNNotificationsPackage;
 // react-native-permissions
 import com.zoontek.rnpermissions.RNPermissionsPackage;
 // react-native-reanimated
@@ -102,7 +100,6 @@ public class PackageList {
       new FileLoggerPackage(),
       new RNGestureHandlerPackage(),
       new KeychainPackage(),
-      new RNNotificationsPackage(reactNativeHost.getApplication()),
       new RNPermissionsPackage(),
       new ReanimatedPackage(),
       new SafeAreaContextPackage(),
